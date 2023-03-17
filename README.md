@@ -3,8 +3,9 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shlok00&label=Profile%20views&color=0e75b6&style=flat" alt="shlok00" /> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shlok00&theme=github_dark"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlok00" alt="shlok00" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlok00" alt="shlok00" /></a> </p>
 
 - 🔭 I’m currently working on **A few data analytics projects in various domains**
 
@@ -41,7 +42,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok00&show_icons=true&locale=en&layout=compact" alt="shlok00" /></p><br><br>
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shlok00&theme=2077&exclude={exclude}" alt="shlok00" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok00&show_icons=true&locale=en" alt="shlok00" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok00&" alt="shlok00" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok00&theme=2077" alt="shlok00" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok00&theme=2077" alt="shlok00" /></p>
