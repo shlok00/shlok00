@@ -1,7 +1,7 @@
 <body>
  <img src="https://i.pinimg.com/originals/90/ca/e0/90cae0cf9b6cded6456a336101de9fd8.jpg">
-<h1 align="center">Yo!! I'm Shlok</h1>
-<h3 align="center">A passionate and keen learner who can be found binging anime or enjoying nature when not trying to smooch the laptop screen.</h3>
+<h1 align="center">HELLO!! I'm Shlok</h1>
+<h3 align="center">A passionate developer who can be found binging anime or appreciating nature when not trying to smooch the laptop screen.</h3>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shlok00&label=Profile%20views&color=0e75b6&style=flat" alt="shlok00" /> </p>
