@@ -61,6 +61,11 @@
  </div>
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shlok00&theme=2077&exclude={exclude}" alt="shlok00" /></p><br><br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok00&theme=2077" alt="shlok00" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok00&theme=2077" alt="shlok00" /></p>
+<p align="center">&nbsp;
+ <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shlok00&theme=2077" alt="shlok00" />
+ </p>
+<p align="center">
+<img src = "https://streak-stats.demolab.com?user=shlok00&theme=radical&type=png&background=45%2C000000%2C502984">
+ </p>
+ 
 </body>
