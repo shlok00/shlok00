@@ -1,5 +1,5 @@
 <body>
- <img src="https://i.pinimg.com/originals/90/ca/e0/90cae0cf9b6cded6456a336101de9fd8.jpg">
+ <img src="https://i.redd.it/bpxxqqvps4h91.gif">
 <h1 align="center">HELLO!! I'm Shlok</h1>
 <h3 align="center">A passionate developer who can be found binging anime or appreciating nature when not trying to smooch the laptop screen.</h3>
 <br>
@@ -39,6 +39,7 @@
 <br>
 <br>
 
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_still/9bc27292880429.5e569ff84e4d0.gif">
 <h3 >Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/shlok-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlok-naik" height="30" width="40" /></a>
