@@ -12,7 +12,7 @@
 
  <div align="center">
  🔭 I’m currently working on **A few data analytics projects in various domains**
-<br>
+<br><br>
   
  🌱 I’m currently learning **Spring, Spark and Scala**
 <br>
