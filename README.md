@@ -11,7 +11,7 @@
  <br><br>
 
  <div align="center">
- 🔭 I’m currently working on **A few data analytics projects in various domains**
+ 🔭 I’m currently working on **A few data science projects in various domains**
 <br><br>
   
  🌱 I’m currently learning **Spring, Spark and Scala**
