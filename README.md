@@ -1,6 +1,8 @@
 <body>
  <img src="https://i.redd.it/bpxxqqvps4h91.gif">
-<h1 align="center">HELLO!! I'm Shlok</h1>
+<h1 align="center">HELLO!!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Shlok
+     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+</h1>
 <h3 align="center">A passionate developer who can be found binging anime or appreciating nature when not trying to smooch the laptop screen.</h3>
 <br>
 
@@ -8,6 +10,7 @@
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shlok00&theme=github_dark"/></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shlok00" alt="shlok00" /></a> </p>
+
  <br><br>
 
  <div align="center">
