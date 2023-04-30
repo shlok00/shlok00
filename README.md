@@ -42,7 +42,7 @@
 <br>
 <br>
 
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_still/9bc27292880429.5e569ff84e4d0.gif">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp_still/9bc27292880429.5e569ff84e4d0.gif" width="1000px">
 <h3 >Connect with me:</h3>
 <p>
 <a href="https://linkedin.com/in/shlok-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlok-naik" height="30" width="40" /></a>
@@ -70,5 +70,7 @@
 <p align="center">
 <img src = "https://streak-stats.demolab.com?user=shlok00&theme=radical&type=png&background=45%2C000000%2C502984">
  </p>
+ 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c9ab0115-39ab-47b2-8aad-6371ec7e6be2/d53evqr-10649a4b-f1bd-4ede-b1a6-2c2178dbdb80.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M5YWIwMTE1LTM5YWItNDdiMi04YWFkLTYzNzFlYzdlNmJlMlwvZDUzZXZxci0xMDY0OWE0Yi1mMWJkLTRlZGUtYjFhNi0yYzIxNzhkYmRiODAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wtyS17Z2ocqmJeUgj_fUXJ93nMvC-ZqWxcFB25LakdY" width="1000px"/>
  
 </body>
